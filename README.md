@@ -28,3 +28,9 @@ Require Autoloader
 After installing the dependencies, you need to require the Composer autoloader from your code:
 
 > require 'vendor/autoload.php';
+
+
+=========================================
+
+# To downlaod the maxmind data from the website use the below link and always use the latest repos :
+### https://dev.maxmind.com/geoip/docs/databases?lang=en#official-client-apis
